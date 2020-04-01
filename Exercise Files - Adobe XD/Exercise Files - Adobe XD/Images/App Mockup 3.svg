@@ -1,0 +1,124 @@
+<svg id="Group_29" data-name="Group 29" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="6937.786 -217.406 845.428 1919.813">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #24cd98;
+      }
+
+      .cls-2 {
+        font-size: 34px;
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-10, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #24cd98;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 40px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6 {
+        font-size: 141px;
+      }
+
+      .cls-6, .cls-8 {
+        font-family: FairplexNarrowOT-Book, Fairplex Narrow OT;
+      }
+
+      .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8 {
+        font-size: 139px;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        filter: url(#Rectangle_726-3);
+      }
+
+      .cls-12 {
+        filter: url(#Rectangle_726-2);
+      }
+
+      .cls-13 {
+        filter: url(#Rectangle_726);
+      }
+    </style>
+    <filter id="Rectangle_726" x="6937.786" y="-217.406" width="845.428" height="585.743" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_726-2" x="6937.786" y="449.628" width="845.428" height="585.743" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_726-3" x="6937.786" y="1116.663" width="845.428" height="585.743" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_26" data-name="Group 26" transform="translate(6946.786 -211.406)">
+    <g class="cls-13" transform="matrix(1, 0, 0, 1, -6946.79, 211.41)">
+      <rect id="Rectangle_726-4" data-name="Rectangle 726" class="cls-1" width="827.428" height="567.743" transform="translate(6946.79 -211.41)"/>
+    </g>
+    <text id="_" data-name="+" class="cls-2" transform="translate(766.326 59.803)"><tspan x="0" y="0">+</tspan></text>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-3" transform="translate(751.05 25.257)">
+      <circle class="cls-9" cx="25.56" cy="25.56" r="25.56"/>
+      <circle class="cls-10" cx="25.56" cy="25.56" r="25.06"/>
+    </g>
+    <text id="Monthly_Recurring_Revenue" data-name="Monthly Recurring Revenue" class="cls-4" transform="translate(410.032 120.924)"><tspan x="-242.441" y="0">Monthly Recurring Revenue</tspan></text>
+    <text id="_9_vs_last_month" data-name="9% vs last month" class="cls-5" transform="translate(438.691 477.355)"><tspan x="-150.83" y="0">9% vs last month</tspan></text>
+    <text id="_4_528" data-name="$4,528" class="cls-6" transform="translate(414.772 313.399)"><tspan x="-178.294" y="0">$4,528</tspan></text>
+    <path id="path" class="cls-7" d="M20.367,0,16.8,3.564,31.06,17.822H0v5.092H31.06L16.8,37.171l3.564,3.564L40.735,20.367Z" transform="translate(216.404 486.273) rotate(-90)"/>
+  </g>
+  <g id="Group_27" data-name="Group 27" transform="translate(6946.786 455.628)">
+    <g class="cls-12" transform="matrix(1, 0, 0, 1, -6946.79, -455.63)">
+      <rect id="Rectangle_726-5" data-name="Rectangle 726" class="cls-1" width="827.428" height="567.743" transform="translate(6946.79 455.63)"/>
+    </g>
+    <text id="_2" data-name="+" class="cls-2" transform="translate(766.326 59.803)"><tspan x="0" y="0">+</tspan></text>
+    <g id="Ellipse_6-2" data-name="Ellipse 6" class="cls-3" transform="translate(751.05 25.257)">
+      <circle class="cls-9" cx="25.56" cy="25.56" r="25.56"/>
+      <circle class="cls-10" cx="25.56" cy="25.56" r="25.06"/>
+    </g>
+    <text id="Current_Subscribers" data-name="Current Subscribers" class="cls-4" transform="translate(412.772 120.924)"><tspan x="-176.104" y="0">Current Subscribers</tspan></text>
+    <text id="_2_vs_last_month" data-name="2% vs last month" class="cls-5" transform="translate(438.691 477.355)"><tspan x="-150.83" y="0">2% vs last month</tspan></text>
+    <text id="_450" data-name="450" class="cls-8" transform="translate(414.696 312.399)"><tspan x="-98.829" y="0">450</tspan></text>
+    <path id="path-2" data-name="path" class="cls-7" d="M20.367,0,16.8,3.564,31.06,17.822H0v5.092H31.06L16.8,37.171l3.564,3.564L40.735,20.367Z" transform="translate(216.404 486.273) rotate(-90)"/>
+  </g>
+  <g id="Group_28" data-name="Group 28" transform="translate(6946.786 1122.663)">
+    <g class="cls-11" transform="matrix(1, 0, 0, 1, -6946.79, -1122.66)">
+      <rect id="Rectangle_726-6" data-name="Rectangle 726" class="cls-1" width="827.428" height="567.743" transform="translate(6946.79 1122.66)"/>
+    </g>
+    <text id="_3" data-name="+" class="cls-2" transform="translate(766.326 59.803)"><tspan x="0" y="0">+</tspan></text>
+    <g id="Ellipse_6-3" data-name="Ellipse 6" class="cls-3" transform="translate(751.05 25.257)">
+      <circle class="cls-9" cx="25.56" cy="25.56" r="25.56"/>
+      <circle class="cls-10" cx="25.56" cy="25.56" r="25.06"/>
+    </g>
+    <text id="Current_Visitors" data-name="Current Visitors" class="cls-4" transform="translate(412.961 120.924)"><tspan x="-138.262" y="0">Current Visitors</tspan></text>
+    <text id="_5" data-name="5" class="cls-6" transform="translate(414.436 313.399)"><tspan x="-30.385" y="0">5</tspan></text>
+  </g>
+</svg>
